@@ -1,6 +1,6 @@
 # Caça ao desastre: CrowdStrike e o Apagão Cibernético Global (2024)
 
-**Estudante:** [Seu Nome Completo]
+**Estudante:** Luidy Costa dos Santos
 **Disciplina:** Qualidade de Software, ADS, IFCE Campus Boa Viagem
 **Unidade I:** Fundamentos da qualidade de software
 
