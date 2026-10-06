@@ -42,7 +42,7 @@ Faça uma análise de Qualidade de Software (Unidade I) do apagão da CrowdStrik
 
 **Prompt:**
 
-Gere 6 afirmações específicas sobre a causa técnica do bug do CSAgent.sys e a política de deploy da CrowdStrike para eu checar contra o relatório oficial da CrowdStrike (RCA).
+Gere 5 afirmações específicas sobre a causa técnica do bug do CSAgent.sys e a política de deploy da CrowdStrike para eu checar contra o relatório oficial da CrowdStrike (RCA).
 
 **Resumo da resposta:** A IA listou afirmações sobre o erro de ponteiro/acesso à memória inválida no driver `CSAgent.sys`, falha no Content Validator no ambiente de QA e a implantação simultânea global em vez de implantação por fases.
 
